@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "welcome to sandeep"
+echo "welcome to hyd"
